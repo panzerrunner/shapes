@@ -1,4 +1,5 @@
 
+// parent class
 public class Shape
 {
   protected double area;
